@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Release"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="StartAsRoot.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="13"/>
+        <CursorPos X="75" Y="21"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="StartAsRoot.pas"/>
+        <Caret Line="9" Column="2"/>
+      </Position1>
+      <Position2>
+        <Filename Value="StartAsRoot.pas"/>
+        <Caret Line="15" Column="24" TopLine="7"/>
+      </Position2>
+      <Position3>
+        <Filename Value="StartAsRoot.pas"/>
+        <Caret Line="10" Column="17" TopLine="2"/>
+      </Position3>
+      <Position4>
+        <Filename Value="StartAsRoot.pas"/>
+        <Caret Line="16" Column="38" TopLine="4"/>
+      </Position4>
+      <Position5>
+        <Filename Value="StartAsRoot.pas"/>
+        <Caret Line="17" TopLine="9"/>
+      </Position5>
+      <Position6>
+        <Filename Value="StartAsRoot.pas"/>
+        <Caret Line="7" Column="40" TopLine="3"/>
+      </Position6>
+      <Position7>
+        <Filename Value="StartAsRoot.pas"/>
+        <Caret Line="9" Column="17"/>
+      </Position7>
+      <Position8>
+        <Filename Value="StartAsRoot.pas"/>
+        <Caret Line="20" Column="73" TopLine="17"/>
+      </Position8>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
