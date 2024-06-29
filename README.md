@@ -6,4 +6,4 @@ Designed to run an X-application via pkexec. This is useful if you need to distr
 - The name of the application to start is written in `StartAsRoot.ini`
 - Before starting, the intercepted User Name is written to the `StartAsRoot.ini` file. It can be used by the developer in the future
 
-Made and tested in Mageia Linux-6/7/8.
+Made and tested in Mageia Linux-8/9, Ubuntu.
